@@ -14,6 +14,6 @@ App 2. Budgeting app
 Add incomes and expenses to help you get control of your finances!
 The app shows your total income minus your total expenses
 
-App 3. Under developmente
+App 3. Under development
 
 The apps are written entirely in Javascript
